@@ -1,0 +1,4 @@
+Google Remote Procedure Call (gRPC)
+
+what is gRPC? gRPc is a protocol that allows client applications to directly call methods on their corresponding server application, as if it were on the client's local machine.
+this protocol enhances the creation of distributed network services.
